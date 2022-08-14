@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IndependenceDayFlagAnimation/static/css/main.a0735a72.css",
+    "main.js": "/IndependenceDayFlagAnimation/static/js/main.7fc29f95.js",
+    "static/js/787.3ea2fdc7.chunk.js": "/IndependenceDayFlagAnimation/static/js/787.3ea2fdc7.chunk.js",
+    "index.html": "/IndependenceDayFlagAnimation/index.html",
+    "main.a0735a72.css.map": "/IndependenceDayFlagAnimation/static/css/main.a0735a72.css.map",
+    "main.7fc29f95.js.map": "/IndependenceDayFlagAnimation/static/js/main.7fc29f95.js.map",
+    "787.3ea2fdc7.chunk.js.map": "/IndependenceDayFlagAnimation/static/js/787.3ea2fdc7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0735a72.css",
+    "static/js/main.7fc29f95.js"
+  ]
+}
